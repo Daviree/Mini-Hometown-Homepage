@@ -1,0 +1,126 @@
+body{
+  font-family: "Cinzel Decorative", serif; 
+  font-weight: 700;
+  font-style: normal;
+}
+
+#hero-section{
+  background: url("Images/Onitsha.jpg"),  rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  height: auto;
+  background-blend-mode: multiply;
+  text-align: center;
+  color: white;
+  padding: 300px 0px 0px 0px;
+}
+
+.motto{
+  font-size: 32px;
+  margin: 0px auto;
+  padding-top: 13px;
+  border-top: 2px solid #EBC47C;
+  width: 365px;
+  display: block;
+}
+
+.anambra{
+  font-size: 90px;
+  margin: 0px;
+}
+
+#hero{
+  padding: 20px 28px ;
+  background-color: #EBC47C;
+  border-radius: 24px 24px 0px 0px;
+  font-size: 32px;
+  color: black;
+  text-align: center;
+  margin: 320px 400px 0px 400px;
+}
+
+h3{
+  font-size: 32px;
+  color: black;
+  text-align: center;
+}
+
+.welcome{
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 32px;
+  padding: 4px 10px;
+  background-color: black;
+  margin-bottom: 16px;
+  display: inline;
+  border-radius: 12px;
+} 
+
+#activities{
+  background-color: #FFF4DF;
+  padding: 64px 120px 128px 120px;
+}
+
+#all{
+  display: flex;
+  justify-content: space-around;
+  margin: 64px 0px 0px 0px;
+}
+
+.disvover{
+  width: 277px;
+  text-align: center;
+}
+
+.img{
+  width: 150px;
+   height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+h4{
+  font-family: "Comic Neue", cursive;
+  font-weight: bold;
+  line-height: 30px;
+  font-style: normal;
+  font-size: 24px;
+  margin: 16px 0px 8px 0px;
+}
+
+p{
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+  margin: 16px 0px 0px 0px;
+}
+
+#guide{
+  width: auto;
+  padding: 32px;
+  border-bottom: 8px solid #EBC47C;
+  background: #020B21;
+  margin: 128px 400px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 300px;
+}
+
+.guide-text{
+  width: 277px;
+  color:#EBC47C;
+  margin: 0px 32px 0px 32px;
+}
+
+#guide-image{
+  width: 277px;
+  object-fit: cover;
+}
+
+h5 {
+  font-family: "Comic Neue", cursive;
+  font-size: 24px;
+  margin: 32px;
+}
